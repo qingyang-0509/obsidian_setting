@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Nord",
+  "textFontFamily": "Times New Roman,楷体",
+  "baseFontSizeAction": false,
+  "nativeMenus": true,
+  "translucency": false,
+  "monospaceFontFamily": "Consolas,楷体",
+  "interfaceFontFamily": "Consolas",
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "showViewHeader": true
+}

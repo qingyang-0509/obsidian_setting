@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "069a9980e2346d06",
+    "type": "split",
+    "children": [
+      {
+        "id": "63e771aef9c7238e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367409c53161b257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "备忘录/备忘录.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "31d5cea810d77ca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "899b1dd0dbc41fc1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e462a4a36f308965",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "11c0eb6bf1c8a3f2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0315ae713ebf84e0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e5731c202cbe2faf",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "ddb8f969478d761a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a18a07674b205cb1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "adffefc61a327763",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Untitled 1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4c3ec483803e7684",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled 1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "050175d807fb3703",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled 1.md"
+          }
+        }
+      },
+      {
+        "id": "212459b00bdb2c2e",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "091baca217197ea4",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "31d5cea810d77ca4",
+  "lastOpenFiles": [
+    "备忘录/备忘录.md",
+    "Untitled 1.md",
+    "Untitled",
+    "随记.md",
+    "Untitled.md",
+    "Python/Pandas/pandas_images/Pasted image 20230407185049.png",
+    "Python/Pandas/pandas_images/Pasted image 20230407184938.png",
+    "Python/Pandas/DataFrame vs Series.md",
+    "Tools/CMake/未命名.md",
+    "Python/Pip.md",
+    "Python/IPython/IPython.md",
+    "Tools/CMake/未命名 1.md",
+    "Tools/Git/images/d5ca8ac522528ec17b59d7a41d13aabb.png",
+    "Python/matplotlib/RcParams.md",
+    "Tools/Git/Git 工作流程.md",
+    "Tools/CMake/CMake Websites.md",
+    "Python/Numpy/未命名 1.md",
+    "Tools/Git/Git FAQ.md",
+    "C++/Occurrency/C++ 多线程：stdpromise.md",
+    "C++/Occurrency/C++多线程：锁管理(lock).md",
+    "C++/Occurrency/C++ 多线程：内存模型(stdmemory_order).md",
+    "C++/Occurrency/C++ 多线程：stdpackaged_task.md",
+    "C++/Occurrency/C++多线程：stdthread.md",
+    "C++/Occurrency/C++ 多线程：stdfuture.md",
+    "C++/Occurrency/C++ 多线程：stdasync.md",
+    "C++/Occurrency/C++多线程：thread_local.md",
+    "C++/Occurrency/C++多线程：stdcall_once.md",
+    "C++/Occurrency/C++ 多线程：原子类型(stdatomic).md",
+    "C++/Occurrency/C++ 多线程：互斥量(mutex).md",
+    "C++/Occurrency/C++多线程：condition_variable.md",
+    "C++/initializationmd",
+    "备忘录/images/image-20221104160200579.png",
+    "Web/Three.js/images/坐标系统.png",
+    "备忘录/images/image-20221027220004563.png",
+    "备忘录/images/image-20221026203630946.png",
+    "备忘录/images/Pasted image 20230119214308.png",
+    "Tools/VIM/vim.assets/7AZo6.png",
+    "备忘录/images/Pasted image 20230302213007.png"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "vimMode": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "spellcheck": true,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showIndentGuide": false,
+  "foldHeading": false,
+  "foldIndent": false,
+  "smartIndentList": false,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true
+}
